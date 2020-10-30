@@ -1,24 +1,27 @@
-#screenNum2{
-    height: 100vh;
+#screenNum2 {
+    min-height: 100vh;
+    height: 100%;
 }
 
-#screenNum3{
-    height: 100vh;
+#screenNum3 {
+    min-height: 100vh;
+    height: 100%;
 }
 
-#screenNum5{
-    height: 100vh;
+#screenNum5 {
+    min-height: 100vh;
+    height: 100%;
 }
 
-#screenNum2 .img-fluid{
+#screenNum2 .img-fluid {
     border-radius: 50%;
 }
 
-#screenNum5 .img-fluid{
+#screenNum5 .img-fluid {
     border-radius: 50%;
 }
 
-li{
+li {
     list-style-type: none;
 }
 
