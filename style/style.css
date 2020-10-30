@@ -8,6 +8,16 @@
     height: 100%;
 }
 
+#screenNum1 {
+    min-height: 100vh;
+    height: 100%;
+}
+
+#screenNum4 {
+    min-height: 100vh;
+    height: 100%;
+}
+
 #screenNum5 {
     min-height: 100vh;
     height: 100%;
@@ -25,15 +35,25 @@ li {
     list-style-type: none;
 }
 
-/*
+
 #screenNum3 .row{
-    margin: 20% 0;
+    margin: 50% 0 50% 0;
 }
 
 #screenNum5 .row{
-    margin: 20% 0;
+    margin: 50% 0 50% 0;
 }
 
 #screenNum2 .row{
-    margin: 8% 0;
-}*/
+    margin: 50% 0 50% 0;
+}
+
+
+#screenNum1 .row{
+    margin: 50% 0 50% 0;
+}
+
+
+#screenNum4 .row{
+    margin: 50% 0 50% 0;
+}
